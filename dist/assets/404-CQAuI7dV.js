@@ -1,0 +1,1 @@
+import{c as t,a as o,o as a}from"./index-C0GlKI4r.js";const s="/assets/404-BJhJzpzm.png",c={style:{"text-align":"center"}},i={__name:"404",setup(n){const e=()=>{location.href="/manager/home"};return(r,_)=>(a(),t("div",c,[o("img",{alt:"",src:s,onClick:e})]))}};export{i as default};
